@@ -1,0 +1,10 @@
+=> in_array itu hasil nya true or false 
+=> array intersect mencari value yang sama di antara dua array
+=> array diff mencari value yang berbeda di antara dua array
+=> array_sum untuk menjumlahkan elemen yang terdapat di dalam array
+=> implode untuk mencari array
+https://github.com/zahramaury/Link-repository-PPLG5
+
+ 
+fungsi memberikan kepraktisan kepada developer saat membuat program yang sekiranya akan banyak digunakan sehingga developer
+fungsi return yaitu perintah mengembalikan nilai dari hasil proses fungsi dan juga untuk memberhentikan kode fungsi 
